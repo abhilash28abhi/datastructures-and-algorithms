@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
+//There is no order in HashTables
 public class MyHashTable {
 
     private ArrayList<KeyValue>[] data;
