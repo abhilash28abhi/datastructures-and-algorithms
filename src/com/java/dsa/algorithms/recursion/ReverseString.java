@@ -1,4 +1,4 @@
-package com.java.dsa.algorithms.sortalgorithms.recursion;
+package com.java.dsa.algorithms.sorting.recursion;
 
 public class ReverseString {
 
